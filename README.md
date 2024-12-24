@@ -1,5 +1,5 @@
 ### Hola 👋
-''' Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown** '''
+Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 
 > hare krsna
 > 
