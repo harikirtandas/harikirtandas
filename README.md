@@ -1,5 +1,9 @@
 ### Hola 👋
-soy **Hari** 
+soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
+
+> hare krsna
+
+
 <!--
 **harikirtandas/harikirtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
