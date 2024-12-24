@@ -1,4 +1,5 @@
 ### Hola 👋
+---
 Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 
 > hare krsna
@@ -8,6 +9,8 @@ Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 > krsna krsna
 > 
 > hare hare
+
+---
 
 #### Algunas de mis actividades ✅
 - estudio programacion
