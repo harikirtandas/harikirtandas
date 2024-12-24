@@ -4,7 +4,9 @@ soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 > hare krsna
 > 
 > hare krsna
+> 
 > krsna krsna
+> 
 > hare hare
 
 - estudio programacion
