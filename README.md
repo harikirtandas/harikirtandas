@@ -2,6 +2,17 @@
 soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 
 > hare krsna
+> hare krsna
+> krsna krsna
+> hare hare
+
+- estudio programacion
+- administro una tienda de tecnologia
+- soy profesor de vedanta y yoga
+- disenio grafico
+- y mas...
+
+
 
 
 <!--
