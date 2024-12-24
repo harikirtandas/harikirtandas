@@ -31,9 +31,11 @@ Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 bloque de código!
 ~~~
 ---
-
 #### Mi canal de YouTube
-! [/Users/jorgebianchi/Documents/youTube)
+![EdVV-07](https://github.com/user-attachments/assets/b00f76a1-1cb2-4bfe-b99f-5628e11bbe62)
+
+
+
 <!--
 **harikirtandas/harikirtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
