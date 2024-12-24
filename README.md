@@ -33,7 +33,7 @@ bloque de código!
 ---
 
 #### Mi canal de YouTube
-![/Users/jorgebianchi/Documents/youTube)
+! [/Users/jorgebianchi/Documents/youTube)
 <!--
 **harikirtandas/harikirtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
