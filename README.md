@@ -16,7 +16,12 @@ Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 - disenio grafico
 - y mas...
 
-
+#### Otra info irrelevante
+1. Vaisnava
+2. Geminiano
+3. Argentino
+4. Músico
+   
 
 
 <!--
