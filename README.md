@@ -32,7 +32,7 @@ bloque de código!
 ~~~
 ---
 #### Mi canal de YouTube
-![EdVV-07](https://github.com/user-attachments/assets/b00f76a1-1cb2-4bfe-b99f-5628e11bbe62)
+![estilo de vida vedanta en yutube](https://github.com/user-attachments/assets/b00f76a1-1cb2-4bfe-b99f-5628e11bbe62)
 
 
 
