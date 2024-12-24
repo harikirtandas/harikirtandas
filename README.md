@@ -22,7 +22,9 @@ Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 3. Argentino
 4. Músico
    
-
+~~~
+bloque de código!
+~~~
 
 <!--
 **harikirtandas/harikirtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
