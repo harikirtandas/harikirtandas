@@ -9,14 +9,14 @@ Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 > 
 > hare hare
 
-#### Algunas de mis actividades
+#### Algunas de mis actividades ✅
 - estudio programacion
 - administro una tienda de tecnologia
 - soy profesor de vedanta y yoga
 - disenio grafico
 - y mas...
 
-#### Otra info irrelevante
+#### Otra info irrelevante 👆🏻
 1. Vaisnava
 2. Geminiano
 3. Argentino
