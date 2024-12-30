@@ -2,7 +2,7 @@
 ---
 
 <div align="left">
-  <p><a href="[https://www.youtube.com/channel/UCgrIGp5QAnC0J8LfNJxDRDw?sub_confirmation=1](https://www.youtube.com/@estilodevidavedanta/featured)">
+  <p><a href="[https://www.youtube.com/@estilodevidavedanta/featured]">
     <img src="https://img.shields.io/youtube/views/0G9OdPS_gSU?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a></p>
  </div>
