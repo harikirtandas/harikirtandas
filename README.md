@@ -3,7 +3,7 @@
 
 <div align="left">
   <p><a href="[https://www.youtube.com/@estilodevidavedanta/featured]">
-    <img src="https://img.shields.io/youtube/" />
+    <img src="https://img.shields.io/youtube/">
   </a></p>
  </div>
 Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
