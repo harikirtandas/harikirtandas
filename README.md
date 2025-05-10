@@ -22,12 +22,9 @@ Soy **Hari**
 3. Argentino
 4. Músico
    
-~~~
-bloque de código!
-~~~
----
-#### Mi canal de YouTube
-![estilo de vida vedanta en youtube](https://github.com/user-attachments/assets/b00f76a1-1cb2-4bfe-b99f-5628e11bbe62)
+
+<!--#### Mi canal de YouTube
+<!-- ![estilo de vida vedanta en youtube](https://github.com/user-attachments/assets/b00f76a1-1cb2-4bfe-b99f-5628e11bbe62)
 
 
 
