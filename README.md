@@ -1,19 +1,12 @@
 ### Hola 👋
 ---
 
-Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
-
-> hare krsna
-> 
-> hare krsna
-> 
-> krsna krsna
-> 
-> hare hare
+Soy **Hari** 
 
 ---
 
 #### Algunas de mis actividades ✅
+
 - estudio programacion
 - administro una tienda de tecnologia
 - soy profesor de vedanta y yoga
@@ -22,7 +15,8 @@ Soy **Hari** estoy comenzando a estudiar **git** and **github** and **markdown**
 
 ---
 
-#### Otra info irrelevante 👆🏻
+#### Otra info rrelevante 👆🏻
+
 1. Vaisnava
 2. Geminiano
 3. Argentino
