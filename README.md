@@ -15,7 +15,7 @@ Soy **Hari**
 
 ---
 
-#### Otra info rrelevante 👆🏻
+#### Otra info relevante 👆🏻
 
 1. Vaisnava
 2. Geminiano
