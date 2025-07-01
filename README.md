@@ -14,7 +14,7 @@ Actualmente administro una tienda de tecnología y también soy profesor de Veda
 
 - Estudio programación y desarrollo software con enfoque en Python.
 - Administro una tienda de tecnología enfocada en productos Apple.
-- Enseño Vedanta y yoga como profesor certificado.
+- Enseño Vedanta y yoga como profesor certificado. (https://satyamyoga.com.ar)
 - Diseño gráfico para proyectos personales y profesionales.
 - Y siempre estoy abierto a aprender cosas nuevas y asumir nuevos desafíos.
 
@@ -33,8 +33,7 @@ Actualmente administro una tienda de tecnología y también soy profesor de Veda
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-alberto-bianchi-99b99a35b/)  
 - 🐙 [GitHub](https://github.com/harikirtandas)  
-- 📧 email@example.com  *(poné tu email si querés)*
-
+- 📧 cocobianchi@gmail.com 
 ---
 
 ## Proyectos destacados
