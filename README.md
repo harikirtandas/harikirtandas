@@ -1,44 +1,48 @@
-### Hola 👋
----
-
-Soy **Hari** 
+# Hola 👋, soy Hari
 
 ---
 
-#### Algunas de mis actividades ✅
+## Sobre mí
 
-- estudio programacion
-- administro una tienda de tecnologia
-- soy profesor de vedanta y yoga
-- disenio grafico
-- y mas...
+Soy un apasionado de la programación en transición a desarrollador junior, con experiencia en múltiples áreas como la educación, la tecnología y el diseño gráfico.
+
+Actualmente administro una tienda de tecnología y también soy profesor de Vedanta y yoga, combinando mi amor por el conocimiento con el servicio a la comunidad.
 
 ---
 
-#### Otra info relevante 👆🏻
+## Mis actividades principales ✅
 
-1. Vaisnava
-2. Geminiano
-3. Argentino
-4. Músico
-   
+- Estudio programación y desarrollo software con enfoque en Python.
+- Administro una tienda de tecnología enfocada en productos Apple.
+- Enseño Vedanta y yoga como profesor certificado.
+- Diseño gráfico para proyectos personales y profesionales.
+- Y siempre estoy abierto a aprender cosas nuevas y asumir nuevos desafíos.
 
-<!--#### Mi canal de YouTube
-<!-- ![estilo de vida vedanta en youtube](https://github.com/user-attachments/assets/b00f76a1-1cb2-4bfe-b99f-5628e11bbe62)
+---
 
+## Datos curiosos sobre mí 👆🏻
 
+- Vaisnava practicante comprometido con mi camino espiritual.
+- Geminiano, con mente curiosa y adaptable.
+- Argentino, orgulloso de mi cultura y raíces.
+- Músico amateur, disfruto expresar emociones a través de la música.
 
-<!--
-**harikirtandas/harikirtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ¿Querés contactarme?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-alberto-bianchi-99b99a35b/)  
+- 🐙 [GitHub](https://github.com/harikirtandas)  
+- 📧 email@example.com  *(poné tu email si querés)*
+
+---
+
+## Proyectos destacados
+
+- [Gestor de Gastos en Python](https://github.com/harikirtandas/gestor-gastos) - Proyecto para administrar y visualizar gastos personales con persistencia CSV.  
+- [Temporizador Pomodoro](https://github.com/harikirtandas/pomodoro_IOS) - Temporizador minimalista con Python y Tkinter para mejorar la productividad.
+
+---
+
+¡Gracias por pasar por acá! 🙏  
+Estoy abierto a colaboraciones, consultas y nuevas oportunidades.
