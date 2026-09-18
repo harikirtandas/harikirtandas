@@ -1,4 +1,5 @@
 <h1 align="center">Hola, soy Jorge Bianchi 👋</h1> <h3 align="center">Full Stack Developer Junior · PHP / Laravel / Docker</h3> <p align="center"> <img src="https://img.shields.io/badge/Tres%20Arroyos-Buenos%20Aires%2C%20AR-1a1a1a?style=flat-square" /> <img src="https://img.shields.io/badge/UPSO-Tecnicatura%20en%20Programaci%C3%B3n-1a1a1a?style=flat-square" /> <a href="https://linkedin.com/in/jorge-alberto-bianchi"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> </p>
+
 🧑‍💻 Sobre mí
 
 Trabajo como Full Stack Developer Junior en el Centro Municipal de Salud de Tres Arroyos, dentro de un equipo de IT chico donde combino desarrollo con Docker/PHP y automatización de procesos. En paralelo curso la Tecnicatura en Tecnologías de Programación (UPSO).
